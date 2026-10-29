@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 96.0,
+    "reason": "Passed all mandatory checks. Features: License, Experience, WSIB Clearance, Liability Insurance, Price, Timeline, Team & Approach."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 83.7,
+    "reason": "Passed all mandatory checks. Features: License, Experience, WSIB Clearance, Liability Insurance, Price, Timeline, Team & Approach."
+  },
+  {
+    "proposal": "C",
+    "rank": null,
+    "status": "flagged",
+    "score": 75.8,
+    "reason": "Injection or Suspicious text detected."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Key data missing: Timeline."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "Failed to pass all mandatory checks: License not held."
+  }
+]
